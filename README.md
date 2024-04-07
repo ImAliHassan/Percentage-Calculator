@@ -1,4 +1,4 @@
-# Percentage-Calculator-with-Java
+# Percentage Calculator
  
  # Percentage Calculator:
  This is a simple percentage calculator web application created using HTML, CSS, and JavaScript.
