@@ -1,5 +1,3 @@
-# Percentage Calculator
- 
  # Percentage Calculator:
  This is a simple percentage calculator web application created using HTML, CSS, and JavaScript.
  It allows users to easily calculate the percentage based on the obtained marks and total marks.  
