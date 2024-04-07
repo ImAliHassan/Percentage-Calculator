@@ -1,0 +1,90 @@
+body{
+    background-color: gray;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    height: 46rem;
+}
+#cal{
+border: 2px solid brown;
+border-radius: 5px;
+box-shadow: 0 0 10px rgb(255, 255, 255);
+width: 27rem;
+height: 37rem;
+}
+.form{
+    display: grid;
+    place-content: center;
+    box-sizing: border-box;
+    background-image:url(./Cal.png) ;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#cal h1{ 
+    display: grid;
+    place-content: center;
+    margin-top: -3rem;
+    font-size: 2.5rem;
+    margin-bottom: 35px;
+    color: brown;
+}
+input{
+    background: transparent;
+    width: 12rem;
+    height: 1.5rem;
+    font-size: 0.9rem;
+    border: 2px solid black;
+    border-radius: 1rem;
+    padding: 5px;  
+}
+::after ::placeholder{
+       color: rgb(208, 67, 67);
+    padding: 4px;
+}
+label{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    font-size: 1.3rem;
+    padding: 0.3rem;
+    color: brown;
+    font-weight: bold;
+
+}
+button{
+    margin-top: 1rem;
+    width: 13rem;
+    height: 2.4rem;
+    font-weight: bold;
+    border: 2px solid brown;
+    border-radius: 1rem;
+    background-color: brown;
+    color: rgb(201, 156, 156);
+    cursor: pointer;
+    box-shadow: 0 0 5px rgb(255, 255, 255);
+}
+#res1{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    color: rgb(0, 0, 0);
+    font-size: large;
+    font-weight: bold;
+    margin-top: 20px;
+    width: 13rem;
+    height: 2.4rem;
+    border: 2px solid black;
+    border-radius: 1rem;
+    border-style:dashed;
+}
+#result h2{
+    display: grid;
+    place-content: center;
+    margin-top: 1rem;
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+    color: brown;
+}
