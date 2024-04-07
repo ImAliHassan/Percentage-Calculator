@@ -9,7 +9,7 @@
  1.  Enter the obtained marks in the "Obtained Marks" input field.
  2.  Enter the total marks in the "Total Marks" input field and click on "Check now or hit ENTER.
  3.  The percentage result will be displayed instantly below.
- 4.  Click the "Clear" button to reset the inputs and result.
+ 4.  Click the "Clear" button to reset the inputs.
 
 ## Demo  You can see a live demo of the application [here](https://demo.alihassan.pk/per-cal)   
 ## Installation  
